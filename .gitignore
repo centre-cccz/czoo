@@ -1,0 +1,5 @@
+.env
+.env.*
+!.env.example
+contact_requests.log
+*.log
